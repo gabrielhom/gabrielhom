@@ -1,1 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhom&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+Automation and scripting developer.
+Python • JavaScript • Bash • HTML
+
+Solving real problems with simple code.
