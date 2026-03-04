@@ -1,4 +1,4 @@
-Automation and scripting developer.
+Full stack, automation and scripting developer.
 Python • JavaScript • Bash • SQL
 
 Solving real problems with simple code.
