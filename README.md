@@ -1,3 +1,3 @@
-Full stack, automation and scripting developer.
+Full stack, automation & AI developer.
 
-JavaScript • Python • Bash • SQL
+Python • JavaScript • SQL • RAG • pgvector • OpenAI APIs
